@@ -1,4 +1,4 @@
-# Z-Splinets
+# $ZB$-Splinets
 
 The $ZB$-Splinets package offers a comprehensive framework for building $ZB$-splines, their orthogonalization, and evaluating or projecting data onto a $ZB$-splines basis. It supports users in visualizing $ZB$-splines by providing intuitive plotting functions. This package is designed to facilitate advanced functional data analysis tasks by combining robust mathematical tools and user-friendly functionality, ensuring seamless integration into your analysis workflow.
 
