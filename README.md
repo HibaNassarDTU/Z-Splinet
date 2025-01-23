@@ -1,10 +1,10 @@
 # Z-Splinets
 
-The Z-Splinets package offers a comprehensive framework for building Z-splines, their orthogonalization, and evaluating or projecting data onto a Z-splines basis. It supports users in visualizing Z-splines by providing intuitive plotting functions. This package is designed to facilitate advanced functional data analysis tasks by combining robust mathematical tools and user-friendly functionality, ensuring seamless integration into your analysis workflow.
+The $ZB$-Splinets package offers a comprehensive framework for building $ZB$-splines, their orthogonalization, and evaluating or projecting data onto a $ZB$-splines basis. It supports users in visualizing $ZB$-splines by providing intuitive plotting functions. This package is designed to facilitate advanced functional data analysis tasks by combining robust mathematical tools and user-friendly functionality, ensuring seamless integration into your analysis workflow.
 
 ## Mathematical Formulation
 
-The $Z\!B$-spline of degree $k \in \mathbb{N}_0$ is defined as the first derivative of a $B$-spline:
+The $ZB$-spline of degree $k \in \mathbb{N}_0$ is defined as the first derivative of a $B$-spline:
 
 $$
 Z_{i}^{k+1}(x) := \frac{\mathrm{d}}{\mathrm{d}x} B_{i}^{k+2}(x).
